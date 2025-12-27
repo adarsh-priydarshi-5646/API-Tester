@@ -77,12 +77,7 @@ export default function App() {
             {loading ? "Sending..." : "Send"}
           </button>
         </div>
-
-        <div className="mb-4 text-sm text-gray-600">
-          Selected Method:{" "}
-          <span className="font-semibold text-blue-600">{method}</span>
-        </div>
-
+        
         <div className="mb-6">
           <h3 className="font-medium mb-2 text-gray-700">Request Body</h3>
           <textarea
