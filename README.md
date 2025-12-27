@@ -1,6 +1,6 @@
 # AdarshAPI
 
-A modern, lightweight API testing tool built with React — similar to Postman.
+A modern, lightweight API testing tool built with React - similar to Postman.
 
 ## Features
 
@@ -31,6 +31,5 @@ npm run dev
 npm run build
 ```
 
-## License
-
-MIT
+## Happy Coding!
+---
